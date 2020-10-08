@@ -11,3 +11,5 @@ tables:
 
 **bold**
 _italicized_
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
